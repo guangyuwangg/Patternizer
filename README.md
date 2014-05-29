@@ -2,6 +2,8 @@ Patternizer CS349 A2
 ===========
 A small program implemented using Java. 
 It can be used to create different kinds of patterns.
+Demo video provided by my prof: https://www.youtube.com/embed/qNdm6IZrbbg
+My program behaves exactly the same as the demo video does.
 
 1.   On the top of the screen, there are three radio buttons to select the thickness of the next polyline. Just click on the radio button to select.
      Mouse left button double click on the shape can randomly change the color of the shape. 
